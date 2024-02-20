@@ -1,2 +1,2 @@
 # chat-socket.py
-Programa de chat em tempo real utilizando TCP e sockets em Python.
+Real-time chat program using TCP and sockets in Python.
